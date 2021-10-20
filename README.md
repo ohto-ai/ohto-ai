@@ -15,6 +15,6 @@
 
 [![Ohto-Ai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohto-Ai&layout=compact&theme=highcontrast)](//thatboy.info)
 
-[![Live Platform](https://github-readme-stats.vercel.app/api/pin/?username=Ohto-Ai&repo=LivePlatform&show_owner=true&theme=highcontrast)](//github.com/Ohto-Ai/LivePlatform)  
+[![Post Live](https://github-readme-stats.vercel.app/api/pin/?username=Ohto-Ai&repo=PostLive&show_owner=true&theme=highcontrast)](//github.com/Ohto-Ai/PostLive)  
 
-[![Wallpaper Engine Client](https://github-readme-stats.vercel.app/api/pin/?username=Ohto-Ai&repo=WallpaperEngineClient&show_owner=true&theme=highcontrast)](//github.com/Ohto-Ai/WallpaperEngineClient)
+[![Light Paper](https://github-readme-stats.vercel.app/api/pin/?username=Ohto-Ai&repo=LightPaper&show_owner=true&theme=highcontrast)](//github.com/Ohto-Ai/LightPaper)
