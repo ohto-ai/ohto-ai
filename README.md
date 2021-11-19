@@ -1,3 +1,4 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ohto-Ai&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" alt="github stats" />
 
 ⠄⠄⠄⠄⢠⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣯⢻⣿⣿⣿⣿⣆⠄⠄⠄  
 ⠄⠄⣼⢀⣿⣿⣿⣿⣏⡏⠄⠹⣿⣿⣿⣿⣿⣿⣿⣿⣧⢻⣿⣿⣿⣿⡆⠄⠄  
@@ -11,10 +12,12 @@
 ⠄⠄⠄⠄⠻⣦⡙⠿⣧⠙⢷⠙⠻⠿⢿⡿⠿⠿⠛⠋⠉⠄⠂⠘⠁⠞⠄⠄⠄  
 ⠄⠄⠄⠄⠄⠈⠙⠑⣠⣤⣴⡖⠄⠿⣋⣉⣉⡁⠄⢾⣦⠄⠄⠄⠄⠄⠄⠄⠄  
 
-[![Ohto-Ai's github stats](https://github-readme-stats.vercel.app/api?username=Ohto-Ai&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true)](//github.com/Ohto-Ai)  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohto-Ai&layout=compact&theme=highcontrast" alt="langs"/>
 
-[![Ohto-Ai's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohto-Ai&layout=compact&theme=highcontrast)](//ohtoai.top)
+### Hi there, I'm [Ohto-Ai](https://ohtoai.top)👋
 
-[![Post Live](https://github-readme-stats.vercel.app/api/pin/?username=Ohto-Ai&repo=PostLive&show_owner=true&theme=highcontrast)](//github.com/Ohto-Ai/PostLive)  
+- 🇨🇳 Chinese
+- 🧑🏻‍💻 &nbsp;Programmer
+- ⚡ C/C++
 
-[![Light Paper](https://github-readme-stats.vercel.app/api/pin/?username=Ohto-Ai&repo=LightPaper&show_owner=true&theme=highcontrast)](//github.com/Ohto-Ai/LightPaper)
+<img src="https://github-profile-trophy.vercel.app/?username=Ohto-Ai&theme=juicyfresh&column=8&margin-w=5" alt="logo" height="160" align="center" />
