@@ -22,6 +22,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ohto-Ai&theme=juicyfresh&column=8&margin-w=5" alt="logo" height="160" align="center" />
 
+[![Ohto-Ai's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ohto-Ai&theme=xcode)](https://github.com/Ohto-Ai)
 
 ### Languages
 
