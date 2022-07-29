@@ -1,3 +1,5 @@
+<img align="middle" src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Write+Everywhere%2C+Read+Nowhere."/>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ohto-Ai&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" alt="github stats" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohto-Ai&layout=compact&theme=highcontrast" alt="langs"/>
