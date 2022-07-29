@@ -39,5 +39,6 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Ohto-Ai&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Ohto-Ai/Ohto-Ai?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
+![snake](./assets/github-contribution-grid-snake.svg)
 
 
