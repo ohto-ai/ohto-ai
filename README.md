@@ -9,6 +9,7 @@
 - 🇨🇳 Chinese
 - 🧑🏻‍💻 &nbsp;Programmer
 - ⚡ C/C++
+- 💼 IOT
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ohto-Ai&theme=juicyfresh&column=8&margin-w=5" alt="logo" height="160" align="center" />
 
