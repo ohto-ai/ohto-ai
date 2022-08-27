@@ -21,3 +21,4 @@ jobs:
         with:
           branch: master
           message: "Generate Contribution Snake"
+          default_author: user_info
