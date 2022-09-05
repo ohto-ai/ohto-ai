@@ -1,44 +1,28 @@
-<img align="middle" src="https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Write+Everywhere%2C+Read+Nowhere."/>
+# Hi there, I'm [Ohto-Ai](https://ohtoai.top)👋
+![Write Every Read Nowhere][github-sub-title:img]
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ohto-Ai&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" alt="github stats" />
-
-
-### Hi there, I'm [Ohto-Ai](https://ohtoai.top)👋
-
+## Self Introduction
 - 🇨🇳 Chinese
 - 🧑🏻‍💻 &nbsp;Programmer
 - ⚡ C/C++
 - 💼 IOT
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=Ohto-Ai&theme=juicyfresh&column=8&margin-w=5" alt="logo" />
+## Github Stats
 
-[![Ohto-Ai's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ohto-Ai&theme=xcode)](https://github.com/Ohto-Ai)
+![github-stats][github-stats:img]  
+![Ohto-Ai's GitHub stats][github-lang:img]  
 
-### Languages
+## Github Contribution
 
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp&logoColor=239120)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-
-### Technologies & Tools
-
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=0078D6)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite&logoColor=003B57)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=VisualStudio&logoColor=5C2D91)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=VisualStudioCode&logoColor=007ACC)
-
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Ohto-Ai&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Ohto-Ai/Ohto-Ai?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-
+![Ohto-Ai's GitHub Activity Graph][github-activity-graph:img]  
 ![snake](./assets/github-contribution-grid-snake.svg)
 
+![Visitors][github-vistors:badge]
+![Last Commit][github-last-commit:badge]
 
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Write+Everywhere%2C+Read+Nowhere.
+[github-stats:img]: https://github-readme-stats.vercel.app/api?username=Ohto-Ai&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true
+[github-lang:img]: https://github-readme-stats.vercel.app/api/top-langs/?username=Ohto-Ai&layout=compact&theme=highcontrast
+[github-activity-graph:img]: https://activity-graph.herokuapp.com/graph?username=Ohto-Ai&theme=xcode
+[github-vistors:badge]: https://komarev.com/ghpvc/?username=Ohto-Ai&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12
+[github-last-commit:badge]: https://img.shields.io/github/last-commit/Ohto-Ai/Ohto-Ai?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat
