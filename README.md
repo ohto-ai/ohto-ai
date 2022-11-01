@@ -1,5 +1,7 @@
 # Hi there, I'm [Ohto-Ai](https://ohtoai.top)👋
-![Write Everywhere Read Nowhere][github-sub-title:img]
+<img src="https://avatars.githubusercontent.com/Ohto-Ai?s=96" style="border-radius: 50%">  
+
+![Write Everywhere Read Nowhere][github-sub-title:img]  
 
 ## Self Introduction
 - 🇨🇳 Chinese
