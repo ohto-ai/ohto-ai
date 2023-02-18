@@ -15,7 +15,7 @@
 
 ## Github Contribution
 
-![Ohto-Ai's GitHub Activity Graph][github-activity-graph:img]  
+<!-- ![Ohto-Ai's GitHub Activity Graph][github-activity-graph:img]   -->
 ![snake][github-contribution-grid-snake]
 
 ![Visitors][github-vistors:badge]
