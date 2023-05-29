@@ -8,12 +8,12 @@
 - ⚡ C/C++
 - 💼 IOT
 
-## Github Stats
+## GitHub Stats
 
 |![github-stats][github-stats:img]|![github-lang][github-lang:img]|
 |---------------------------------|------------------------------------------|
 
-## Github Contribution
+## GitHub Contribution
 
 <!-- ![ohto-ai's GitHub Activity Graph][github-activity-graph:img]   -->
 ![snake][github-contribution-grid-snake]
