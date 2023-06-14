@@ -16,7 +16,11 @@
 ## GitHub Contribution
 
 <!-- ![ohto-ai's GitHub Activity Graph][github-activity-graph:img]   -->
-![snake][github-contribution-grid-snake]
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ohto-Ai-Dev/res/raw/master/assets/ohto-ai/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ohto-Ai-Dev/res/raw/master/assets/ohto-ai/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Ohto-Ai-Dev/res/raw/master/assets/ohto-ai/github-contribution-grid-snake.svg" />
+</picture>
 
 ![Visitors][github-vistors:badge]
 ![Last Commit][github-last-commit:badge]
@@ -27,4 +31,3 @@
 [github-activity-graph:img]: https://activity-graph.herokuapp.com/graph?username=ohto-ai&theme=xcode
 [github-vistors:badge]: https://komarev.com/ghpvc/?username=ohto-ai&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12
 [github-last-commit:badge]: https://img.shields.io/github/last-commit/ohto-ai/ohto-ai?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat
-[github-contribution-grid-snake]: https://github.com/Ohto-Ai-Dev/res/raw/master/assets/ohto-ai/github-contribution-grid-snake.svg
