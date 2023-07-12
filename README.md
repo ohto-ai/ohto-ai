@@ -1,4 +1,4 @@
-# Hi there, I'm [Ai](https://ohtoai.top)👋
+# Hi there, I'm [Choo](https://ohtoai.top)👋
 
 ![Write Everywhere Read Nowhere][github-sub-title:img]  
 
