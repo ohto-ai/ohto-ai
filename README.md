@@ -25,7 +25,7 @@
 ![Visitors][github-vistors:badge]
 ![Last Commit][github-last-commit:badge]
 
-[github-sub-title:img]: https://wiki.ohtoai.top/assets/img/Gawr-Gura.gif
+[github-sub-title:img]: https://file.ohtoai.top/res/img/Gawr-Gura.gif
 [github-stats:img]: https://github-readme-stats.vercel.app/api?username=ohto-ai&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true
 [github-lang:img]: https://github-readme-stats.vercel.app/api/top-langs/?username=ohto-ai&layout=compact&theme=highcontrast
 [github-activity-graph:img]: https://activity-graph.herokuapp.com/graph?username=ohto-ai&theme=xcode
