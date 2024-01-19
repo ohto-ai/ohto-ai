@@ -6,7 +6,7 @@
 - 🇨🇳 Chinese
 - 🧑🏻‍💻 &nbsp;Programmer
 - ⚡ C/C++
-- 💼 IOT
+- 💼 IIOT
 
 ## GitHub Stats
 
