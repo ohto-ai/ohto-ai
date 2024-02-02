@@ -4,9 +4,8 @@
 
 ## Self Introduction
 - 🇨🇳 Chinese
-- 🧑🏻‍💻 &nbsp;Programmer
+- 🧑🏻‍💻 &nbsp;IIOT Engineer
 - ⚡ C/C++
-- 💼 IIOT
 
 ## GitHub Stats
 
