@@ -1,11 +1,25 @@
 # Hi there, I'm [Choo](https://ohtoai.top)👋
 
-![Write Everywhere Read Nowhere][github-sub-title:img]  
+<img alt="avatar" src="https://file.ohtoai.top/ohtoai/ohtoai.jpg" width=300/>
 
 ## Self Introduction
 - 🇨🇳 Chinese
-- 🧑🏻‍💻 &nbsp;IIOT Engineer
+- 💻 Algorithm Engineer
 - ⚡ C/C++
+
+## Skills
+- Qt
+- Python
+- Shell
+- SQLite
+- H5
+
+## Tool Chains
+- VS
+- VS Code
+- gcc
+- make && cmake
+- git
 
 ## GitHub Stats
 
@@ -30,7 +44,6 @@
 ![Visitors][github-vistors:badge]
 ![Last Commit][github-last-commit:badge]
 
-[github-sub-title:img]: https://file.ohtoai.top/res/img/Gawr-Gura.gif
 [github-stats:img]: https://github-readme-stats.vercel.app/api?username=ohto-ai&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true
 [github-lang:img]: https://github-readme-stats.vercel.app/api/top-langs/?username=ohto-ai&layout=compact&theme=highcontrast
 [github-activity-graph:img]: https://activity-graph.herokuapp.com/graph?username=ohto-ai&theme=xcode
