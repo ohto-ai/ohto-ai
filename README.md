@@ -1,25 +1,10 @@
-# Hi there, I'm [Choo](https://ohtoai.top)👋
-
 <img alt="avatar" src="https://file.ohtoai.top/ohtoai/ohtoai.jpg" width=300/>
 
-## Self Introduction
-- 🇨🇳 Chinese
-- 💻 Algorithm Engineer
-- ⚡ C/C++
+# Hi there, I'm [Choo](https://ohtoai.top)👋
 
-## Skills
-- Qt
-- Python
-- Shell
-- SQLite
-- H5
-
-## Tool Chains
-- VS
-- VS Code
-- gcc
-- make && cmake
-- git
+- 💻 Software Engineer
+- ⚡ Good at C/C++
+- 🌱 Learning Rust
 
 ## GitHub Stats
 
