@@ -29,8 +29,10 @@
 ![Visitors][github-vistors:badge]
 ![Last Commit][github-last-commit:badge]
 
-[github-stats:img]: https://github-readme-stats.vercel.app/api?username=ohto-ai&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true
-[github-lang:img]: https://github-readme-stats.vercel.app/api/top-langs/?username=ohto-ai&layout=compact&theme=highcontrast
+<!-- [github-stats:img]: https://github-readme-stats.vercel.app/api?username=ohto-ai&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true -->
+<!-- [github-lang:img]: https://github-readme-stats.vercel.app/api/top-langs/?username=ohto-ai&layout=compact&theme=highcontrast -->
+[github-stats:img]: profile/stats.svg
+[github-lang:img]: profile/top-langs.svg
 [github-activity-graph:img]: https://activity-graph.herokuapp.com/graph?username=ohto-ai&theme=xcode
 [github-vistors:badge]: https://komarev.com/ghpvc/?username=ohto-ai&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12
 [github-last-commit:badge]: https://img.shields.io/github/last-commit/ohto-ai/ohto-ai?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat
