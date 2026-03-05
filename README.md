@@ -1,4 +1,4 @@
-<img alt="avatar" src="https://file.ohtoai.top/ohtoai/ohtoai.jpg" width=300/>
+<!-- <img alt="avatar" src="https://file.ohtoai.top/ohtoai/ohtoai.jpg" width=300/> -->
 
 # Hi there, I'm [Choo](https://ohtoai.top)👋
 
