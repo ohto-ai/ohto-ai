@@ -3,7 +3,7 @@
 # Hi there, I'm [Choo](https://ohtoai.top)👋
 
 - 💻 Software Engineer
-- ⚡ Good at C/C++
+- ⚡ Good at C++
 - 🌱 Learning Rust
 
 ## GitHub Stats
