@@ -180,7 +180,7 @@
           data-testid="lang-progress"
           x="245.29000000000002"
           y="0"
-          width="14.71"
+          width="14.7"
           height="8"
           fill="#DA3434"
         />
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 69.05%
+        C++ 69.04%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
