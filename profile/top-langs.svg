@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="177.37"
+          width="177.32"
           height="8"
           fill="#f34b7d"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="177.37"
+          x="177.32"
           y="0"
-          width="32.36"
+          width="32.35"
           height="8"
           fill="#555555"
         />
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="209.73000000000002"
+          x="209.67"
           y="0"
           width="23.17"
           height="8"
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="232.90000000000003"
+          x="232.83999999999997"
           y="0"
           width="16.55"
           height="8"
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.45000000000005"
+          x="239.39"
           y="0"
-          width="15.370000000000001"
+          width="15.36"
           height="8"
           fill="#e34c26"
         />
@@ -178,11 +178,11 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.82000000000005"
+          x="244.75"
           y="0"
-          width="15.190000000000001"
+          width="15.25"
           height="8"
-          fill="#DA3434"
+          fill="#3572A5"
         />
       
       
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 70.95%
+        C++ 70.93%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -224,9 +224,9 @@
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#DA3434" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake 2.07%
+        Python 2.10%
       </text>
     </g>
   </g></g>
